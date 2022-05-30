@@ -1,0 +1,22 @@
+.jornadas{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.backend, .frontend{
+    background-color: rgb(43, 120, 61);
+    padding: 20px;
+    height: 350px;
+    width: 40%;
+}
+
+.jornadas li{
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.jornadas h2{
+    color: rgb(61, 223, 180);
+    text-transform: uppercase;
+}
